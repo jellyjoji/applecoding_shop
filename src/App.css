@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.main-bg{
+  height: 300px;
+  block-size: cover;
+  background-position: center;
+}
